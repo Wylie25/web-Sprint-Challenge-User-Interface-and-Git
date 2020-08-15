@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+: Semantic elements are elements with a meaning. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+: 1. Inline ignores both width and height properties. While Block ignoes just the vertical align property. 2. Inline will put everything on the same line side by side.
 
 3. What are the 4 areas of the box model?
 
+: Margin, Border, Padding, and Content.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+:Cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+:Allows multiple people to work on the same project. While maintaing individual saved branches. This makes group editting far more easy.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
