@@ -220,26 +220,32 @@ img{
 
 .two{
     display:flex;
+    justify-content: space-between;
+    align-content: space-between;
 }
 
 .strategy{
     border-bottom: dotted;
     padding: 20px;
+    padding-right: 10px;
 }
 
 .how-we-work{
     border-bottom: dotted;
     padding: 20px;
+    margin: 0 auto;
 }
 
 .places-we-work{
     border-bottom: dotted;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .collaboration{
     border-bottom: dotted;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .learn{
