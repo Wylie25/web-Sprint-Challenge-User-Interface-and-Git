@@ -227,13 +227,13 @@ img{
 .strategy{
     border-bottom: dotted;
     padding: 20px;
-    padding-right: 10px;
+    border-radius: 10px;
 }
 
 .how-we-work{
     border-bottom: dotted;
     padding: 20px;
-    margin: 0 auto;
+    border-radius: 10px;
 }
 
 .places-we-work{
